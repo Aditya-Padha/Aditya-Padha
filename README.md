@@ -18,8 +18,9 @@ Here are some ideas to get you started:
   <h2>Hello There, Fellow Developers, I am Aditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
+<div align="center">
 🔭 I’m currently working on  a Chatbot Song Recommendation system.<br>👯 I’m looking to collaborate on Open Source Projects.<br>💬 Ask me anything <br>⚡ Fun fact I enjoy working on the backend. <br> Reach me at my **<a href="mailto:padha.aditya.2016589@gmail.com"><b>email</b></a>**
-
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
