@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Aditya-Padha/Aditya-Padha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h2>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ꜰᴇʟʟᴏᴡ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ, ɪ ᴀᴍ ᴀʙʜᴀꜱʜ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+  <h2>Hello There, Fellow Developers, I am Aditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 🔭 I’m currently working on  a Chatbot Song Recommendation system.<br>👯 I’m looking to collaborate on Open Source Projects.<br>💬 Ask me anything <br>⚡ Fun fact I enjoy working on the backend.
