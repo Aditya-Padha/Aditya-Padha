@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>Hello There, Fellow Developers, I am Aditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
   
+<div align="center">
+
+CS Undergraduate | Web Developer | UI & UX Designer | Competitive Programmer | Machine Learning Dev
+
+</div>
 
 </div>
 
