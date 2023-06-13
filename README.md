@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 🔭 I’m currently working on  a Chatbot Song Recommendation system.<br>👯 I’m looking to collaborate on Open Source Projects.<br>💬 Ask me anything <br>⚡ Fun fact I enjoy working on the backend. <br> Reach me at my **<a href="mailto:padha.aditya.2016589@gmail.com"><b>email</b></a>**
 </div>
 <br>
-<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 
 # 💻 Tech Stack:
