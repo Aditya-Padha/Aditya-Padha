@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h2>Hello There, Fellow Developers, I am Aditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 <div align="center">
