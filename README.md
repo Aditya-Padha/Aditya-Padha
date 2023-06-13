@@ -27,7 +27,7 @@ CS Undergraduate | Web Developer | UI & UX Designer | Competitive Programmer | M
 
 <div align="center">
     
-🔭 currently working on  a Chatbot Song Recommendation system.<br>👯 looking to collaborate on Open Source Projects.<br>💬 Ask me anything <br>⚡ Fun fact: I love working on the backend. <br> &#128231; Reach me at my **<a href="mailto:padha.aditya.2016589@gmail.com"><b>email</b></a>**
+🔭 currently working on  a Chatbot Song Recommendation system.<br>👯 looking to collaborate on Open Source Projects.<br>💬 Ask me anything. <br>⚡ Fun fact: I love working on the backend. <br> &#128231; Reach me at my **<a href="mailto:padha.aditya.2016589@gmail.com"><b>Email.</b></a>**
 </div>
 <br>
 
